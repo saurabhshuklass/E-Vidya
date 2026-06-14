@@ -1,0 +1,162 @@
+[
+  {
+    "question":"What is 2 + 3?",
+    "option1":"4",
+    "option2":"5",
+    "option3":"6",
+    "option4":"7",
+    "correctAnswer":2
+  },
+  {
+    "question":"What is 10 × 5?",
+    "option1":"50",
+    "option2":"40",
+    "option3":"45",
+    "option4":"60",
+    "correctAnswer":1
+  },
+  {
+    "question":"Square root of 81?",
+    "option1":"8",
+    "option2":"9",
+    "option3":"10",
+    "option4":"7",
+    "correctAnswer":2
+  },
+  {
+    "question":"15 + 25 = ?",
+    "option1":"35",
+    "option2":"40",
+    "option3":"45",
+    "option4":"50",
+    "correctAnswer":2
+  },
+  {
+    "question":"100 ÷ 10 = ?",
+    "option1":"5",
+    "option2":"10",
+    "option3":"15",
+    "option4":"20",
+    "correctAnswer":2
+  },
+  {
+    "question":"7 × 8 = ?",
+    "option1":"54",
+    "option2":"56",
+    "option3":"58",
+    "option4":"60",
+    "correctAnswer":2
+  },
+  {
+    "question":"What is 25% of 200?",
+    "option1":"25",
+    "option2":"40",
+    "option3":"50",
+    "option4":"60",
+    "correctAnswer":3
+  },
+  {
+    "question":"Value of π approximately?",
+    "option1":"3.14",
+    "option2":"2.14",
+    "option3":"4.13",
+    "option4":"3.41",
+    "correctAnswer":1
+  },
+  {
+    "question":"12² = ?",
+    "option1":"124",
+    "option2":"142",
+    "option3":"144",
+    "option4":"154",
+    "correctAnswer":3
+  },
+  {
+    "question":"Cube of 3?",
+    "option1":"6",
+    "option2":"9",
+    "option3":"18",
+    "option4":"27",
+    "correctAnswer":4
+  },
+  {
+    "question":"45 + 55 = ?",
+    "option1":"90",
+    "option2":"100",
+    "option3":"110",
+    "option4":"120",
+    "correctAnswer":2
+  },
+  {
+    "question":"90 ÷ 9 = ?",
+    "option1":"9",
+    "option2":"10",
+    "option3":"11",
+    "option4":"12",
+    "correctAnswer":2
+  },
+  {
+    "question":"LCM of 4 and 6?",
+    "option1":"12",
+    "option2":"24",
+    "option3":"18",
+    "option4":"6",
+    "correctAnswer":1
+  },
+  {
+    "question":"HCF of 12 and 18?",
+    "option1":"3",
+    "option2":"6",
+    "option3":"9",
+    "option4":"12",
+    "correctAnswer":2
+  },
+  {
+    "question":"1/2 + 1/2 = ?",
+    "option1":"1",
+    "option2":"2",
+    "option3":"1/2",
+    "option4":"0",
+    "correctAnswer":1
+  },
+  {
+    "question":"20% of 50?",
+    "option1":"5",
+    "option2":"10",
+    "option3":"15",
+    "option4":"20",
+    "correctAnswer":2
+  },
+  {
+    "question":"Perimeter of square side 5?",
+    "option1":"10",
+    "option2":"15",
+    "option3":"20",
+    "option4":"25",
+    "correctAnswer":3
+  },
+  {
+    "question":"Area of square side 4?",
+    "option1":"8",
+    "option2":"12",
+    "option3":"16",
+    "option4":"20",
+    "correctAnswer":3
+  },
+  {
+    "question":"5³ = ?",
+    "option1":"25",
+    "option2":"125",
+    "option3":"100",
+    "option4":"150",
+    "correctAnswer":2
+  },
+  {
+    "question":"What is 99 + 1?",
+    "option1":"100",
+    "option2":"101",
+    "option3":"98",
+    "option4":"99",
+    "correctAnswer":1
+  }
+]

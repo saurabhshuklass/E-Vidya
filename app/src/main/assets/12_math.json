@@ -1,0 +1,22 @@
+[
+  {"question":"Derivative of sin x?","option1":"cos x","option2":"sin x","option3":"tan x","option4":"sec x","correctAnswer":1},
+  {"question":"Integration of 1 dx?","option1":"x","option2":"1","option3":"x²","option4":"0","correctAnswer":1},
+  {"question":"Value of sin²θ + cos²θ?","option1":"0","option2":"1","option3":"2","option4":"θ","correctAnswer":2},
+  {"question":"Derivative of x³?","option1":"2x","option2":"3x²","option3":"x²","option4":"3x","correctAnswer":2},
+  {"question":"What is log₁₀(1000)?","option1":"2","option2":"3","option3":"4","option4":"10","correctAnswer":2},
+  {"question":"Value of tan 45°?","option1":"0","option2":"1","option3":"√3","option4":"∞","correctAnswer":2},
+  {"question":"Integral of x dx?","option1":"x²/2","option2":"x²","option3":"2x","option4":"x","correctAnswer":1},
+  {"question":"What is determinant of identity matrix?","option1":"0","option2":"1","option3":"2","option4":"n","correctAnswer":2},
+  {"question":"Value of cos 90°?","option1":"1","option2":"0","option3":"-1","option4":"1/2","correctAnswer":2},
+  {"question":"Distance formula uses?","option1":"Pythagoras theorem","option2":"Trigonometry","option3":"Statistics","option4":"Calculus","correctAnswer":1},
+  {"question":"Value of sec 60°?","option1":"1","option2":"2","option3":"3","option4":"4","correctAnswer":2},
+  {"question":"Derivative of eˣ?","option1":"x","option2":"eˣ","option3":"1","option4":"0","correctAnswer":2},
+  {"question":"Value of sin 30°?","option1":"1","option2":"1/2","option3":"0","option4":"√3","correctAnswer":2},
+  {"question":"Matrix with equal rows and columns is?","option1":"Rectangular","option2":"Square","option3":"Diagonal","option4":"Null","correctAnswer":2},
+  {"question":"Probability range is?","option1":"0 to 1","option2":"1 to 10","option3":"-1 to 1","option4":"0 to 100","correctAnswer":1},
+  {"question":"Derivative of constant?","option1":"1","option2":"0","option3":"x","option4":"∞","correctAnswer":2},
+  {"question":"Value of cos 60°?","option1":"1","option2":"0","option3":"1/2","option4":"2","correctAnswer":3},
+  {"question":"Mean of 2,4,6?","option1":"3","option2":"4","option3":"5","option4":"6","correctAnswer":2},
+  {"question":"Value of tan 0°?","option1":"0","option2":"1","option3":"∞","option4":"-1","correctAnswer":1},
+  {"question":"What is 15²?","option1":"225","option2":"215","option3":"205","option4":"235","correctAnswer":1}
+]

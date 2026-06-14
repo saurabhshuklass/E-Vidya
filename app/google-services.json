@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "908411750708",
+    "project_id": "e-vidya-13398",
+    "storage_bucket": "e-vidya-13398.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908411750708:android:ceba87ba25b408a7b0fd61",
+        "android_client_info": {
+          "package_name": "com.example.e_vidya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnWX6XkjfuI86gunHwqQ9JzA_i1vym7Bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

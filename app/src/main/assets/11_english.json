@@ -1,0 +1,22 @@
+[
+  {"question":"Opposite of Brave?","option1":"Coward","option2":"Strong","option3":"Hero","option4":"Bold","correctAnswer":1},
+  {"question":"Synonym of Happy?","option1":"Sad","option2":"Joyful","option3":"Angry","option4":"Weak","correctAnswer":2},
+  {"question":"Past tense of Write?","option1":"Write","option2":"Writing","option3":"Written","option4":"Wrote","correctAnswer":4},
+  {"question":"Plural of Mouse?","option1":"Mouses","option2":"Mouse","option3":"Mice","option4":"Mices","correctAnswer":3},
+  {"question":"Article before umbrella?","option1":"A","option2":"An","option3":"The","option4":"No article","correctAnswer":2},
+  {"question":"Synonym of Quick?","option1":"Slow","option2":"Fast","option3":"Weak","option4":"Small","correctAnswer":2},
+  {"question":"Opposite of Rich?","option1":"Poor","option2":"Strong","option3":"Smart","option4":"Kind","correctAnswer":1},
+  {"question":"Verb in 'She sings well'?","option1":"She","option2":"Sings","option3":"Well","option4":"None","correctAnswer":2},
+  {"question":"Correct spelling?","option1":"Beautifull","option2":"Beautifool","option3":"Beautiful","option4":"Beautifal","correctAnswer":3},
+  {"question":"Opposite of Hot?","option1":"Warm","option2":"Cold","option3":"Heat","option4":"Sun","correctAnswer":2},
+  {"question":"Synonym of Smart?","option1":"Intelligent","option2":"Lazy","option3":"Weak","option4":"Dull","correctAnswer":1},
+  {"question":"Past tense of Eat?","option1":"Eat","option2":"Ate","option3":"Eating","option4":"Eaten","correctAnswer":2},
+  {"question":"Which is a pronoun?","option1":"Book","option2":"School","option3":"He","option4":"Run","correctAnswer":3},
+  {"question":"Which is an adjective?","option1":"Beautiful","option2":"Run","option3":"Book","option4":"Quickly","correctAnswer":1},
+  {"question":"Opposite of Day?","option1":"Night","option2":"Morning","option3":"Sun","option4":"Evening","correctAnswer":1},
+  {"question":"Synonym of Begin?","option1":"Stop","option2":"Start","option3":"End","option4":"Finish","correctAnswer":2},
+  {"question":"Past tense of Go?","option1":"Gone","option2":"Going","option3":"Went","option4":"Goed","correctAnswer":3},
+  {"question":"Plural of Child?","option1":"Childs","option2":"Children","option3":"Childrens","option4":"Childes","correctAnswer":2},
+  {"question":"Which is a noun?","option1":"Run","option2":"Beautiful","option3":"School","option4":"Quickly","correctAnswer":3},
+  {"question":"Article before honest man?","option1":"A","option2":"An","option3":"The","option4":"No article","correctAnswer":2}
+]

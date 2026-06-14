@@ -1,0 +1,22 @@
+[
+  {"question":"CPU stands for?","option1":"Central Processing Unit","option2":"Control Processing Unit","option3":"Computer Program Unit","option4":"Central Program Utility","correctAnswer":1},
+  {"question":"Brain of computer?","option1":"Monitor","option2":"CPU","option3":"Keyboard","option4":"RAM","correctAnswer":2},
+  {"question":"Full form of RAM?","option1":"Random Access Memory","option2":"Read Access Memory","option3":"Run Access Memory","option4":"Rapid Access Memory","correctAnswer":1},
+  {"question":"Full form of ROM?","option1":"Read Only Memory","option2":"Run Only Memory","option3":"Random Only Memory","option4":"Read Open Memory","correctAnswer":1},
+  {"question":"Which is an input device?","option1":"Monitor","option2":"Printer","option3":"Keyboard","option4":"Speaker","correctAnswer":3},
+  {"question":"Which is an output device?","option1":"Mouse","option2":"Keyboard","option3":"Scanner","option4":"Monitor","correctAnswer":4},
+  {"question":"WWW stands for?","option1":"World Wide Web","option2":"Wide World Web","option3":"World Web Wide","option4":"Web World Wide","correctAnswer":1},
+  {"question":"Google is a?","option1":"Hardware","option2":"Search Engine","option3":"OS","option4":"CPU","correctAnswer":2},
+  {"question":"Programming language for Android?","option1":"Java/Kotlin","option2":"HTML","option3":"CSS","option4":"Excel","correctAnswer":1},
+  {"question":"Database software?","option1":"MySQL","option2":"Paint","option3":"Chrome","option4":"WordPad","correctAnswer":1},
+  {"question":"Shortcut for Copy?","option1":"Ctrl+V","option2":"Ctrl+C","option3":"Ctrl+X","option4":"Ctrl+S","correctAnswer":2},
+  {"question":"Shortcut for Paste?","option1":"Ctrl+C","option2":"Ctrl+X","option3":"Ctrl+V","option4":"Ctrl+P","correctAnswer":3},
+  {"question":"Storage device?","option1":"Mouse","option2":"Monitor","option3":"Hard Disk","option4":"Keyboard","correctAnswer":3},
+  {"question":"Operating System example?","option1":"Windows","option2":"CPU","option3":"RAM","option4":"Mouse","correctAnswer":1},
+  {"question":"1 GB = ?","option1":"1024 MB","option2":"1024 KB","option3":"100 MB","option4":"1000 KB","correctAnswer":1},
+  {"question":"Internet is a?","option1":"Network","option2":"Software","option3":"Hardware","option4":"Device","correctAnswer":1},
+  {"question":"Which is a browser?","option1":"Chrome","option2":"Windows","option3":"CPU","option4":"RAM","correctAnswer":1},
+  {"question":"Cloud storage example?","option1":"Google Drive","option2":"CPU","option3":"Monitor","option4":"Mouse","correctAnswer":1},
+  {"question":"Android developed by?","option1":"Apple","option2":"Microsoft","option3":"Google","option4":"IBM","correctAnswer":3},
+  {"question":"Binary number system uses?","option1":"0 and 1","option2":"1 and 2","option3":"0 to 9","option4":"A and B","correctAnswer":1}
+]

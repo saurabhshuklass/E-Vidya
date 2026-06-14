@@ -1,0 +1,22 @@
+[
+  {"question":"Atomic number of Oxygen?","option1":"6","option2":"7","option3":"8","option4":"9","correctAnswer":3},
+  {"question":"Chemical formula of Benzene?","option1":"C6H6","option2":"C2H6","option3":"CH4","option4":"C6H12","correctAnswer":1},
+  {"question":"pH of neutral solution?","option1":"6","option2":"7","option3":"8","option4":"9","correctAnswer":2},
+  {"question":"Strong acid example?","option1":"HCl","option2":"NaOH","option3":"H2O","option4":"NH3","correctAnswer":1},
+  {"question":"SI unit of amount of substance?","option1":"Gram","option2":"Mole","option3":"Kg","option4":"Liter","correctAnswer":2},
+  {"question":"Symbol of Sodium?","option1":"So","option2":"Na","option3":"S","option4":"Sn","correctAnswer":2},
+  {"question":"Symbol of Potassium?","option1":"Po","option2":"Pt","option3":"K","option4":"P","correctAnswer":3},
+  {"question":"Avogadro Number is?","option1":"6.022×10²³","option2":"3×10⁸","option3":"9.8","option4":"1.6×10⁻¹⁹","correctAnswer":1},
+  {"question":"Formula of Sulfuric Acid?","option1":"HCl","option2":"HNO3","option3":"H2SO4","option4":"NaOH","correctAnswer":3},
+  {"question":"Formula of Ammonia?","option1":"NH2","option2":"NH3","option3":"NO2","option4":"N2","correctAnswer":2},
+  {"question":"Gas used in Haber Process?","option1":"Hydrogen","option2":"Nitrogen","option3":"Both","option4":"Oxygen","correctAnswer":3},
+  {"question":"Chemical symbol of Gold?","option1":"Au","option2":"Ag","option3":"G","option4":"Go","correctAnswer":1},
+  {"question":"Chemical symbol of Silver?","option1":"Si","option2":"Ag","option3":"Al","option4":"Au","correctAnswer":2},
+  {"question":"Most abundant gas in atmosphere?","option1":"Oxygen","option2":"Hydrogen","option3":"Nitrogen","option4":"CO2","correctAnswer":3},
+  {"question":"Acids turn blue litmus?","option1":"Blue","option2":"Red","option3":"Green","option4":"Yellow","correctAnswer":2},
+  {"question":"Bases turn red litmus?","option1":"Blue","option2":"Green","option3":"Yellow","option4":"Red","correctAnswer":1},
+  {"question":"Common salt formula?","option1":"NaOH","option2":"NaCl","option3":"KCl","option4":"CaCl2","correctAnswer":2},
+  {"question":"Who developed periodic table?","option1":"Bohr","option2":"Dalton","option3":"Mendeleev","option4":"Newton","correctAnswer":3},
+  {"question":"Atomic number of Carbon?","option1":"4","option2":"5","option3":"6","option4":"7","correctAnswer":3},
+  {"question":"Smallest particle of element?","option1":"Molecule","option2":"Cell","option3":"Atom","option4":"Electron","correctAnswer":3}
+]

@@ -1,0 +1,22 @@
+[
+  {"question":"Opposite of Generous?","option1":"Kind","option2":"Selfish","option3":"Smart","option4":"Happy","correctAnswer":2},
+  {"question":"Synonym of Intelligent?","option1":"Dull","option2":"Bright","option3":"Weak","option4":"Poor","correctAnswer":2},
+  {"question":"Past tense of Write?","option1":"Write","option2":"Writing","option3":"Wrote","option4":"Written","correctAnswer":3},
+  {"question":"Plural of Mouse?","option1":"Mouses","option2":"Mice","option3":"Mouse","option4":"Mices","correctAnswer":2},
+  {"question":"Article before honest man?","option1":"A","option2":"An","option3":"The","option4":"No article","correctAnswer":2},
+  {"question":"Synonym of Quick?","option1":"Fast","option2":"Slow","option3":"Weak","option4":"Dull","correctAnswer":1},
+  {"question":"Opposite of Rich?","option1":"Strong","option2":"Poor","option3":"Kind","option4":"Smart","correctAnswer":2},
+  {"question":"Verb in 'He runs daily'?","option1":"He","option2":"Runs","option3":"Daily","option4":"None","correctAnswer":2},
+  {"question":"Correct spelling?","option1":"Beautifool","option2":"Beautifull","option3":"Beautiful","option4":"Beautifal","correctAnswer":3},
+  {"question":"Opposite of Hot?","option1":"Warm","option2":"Cold","option3":"Heat","option4":"Sun","correctAnswer":2},
+  {"question":"Synonym of Begin?","option1":"Stop","option2":"Start","option3":"End","option4":"Finish","correctAnswer":2},
+  {"question":"Past tense of Go?","option1":"Gone","option2":"Going","option3":"Went","option4":"Goed","correctAnswer":3},
+  {"question":"Which is a pronoun?","option1":"Book","option2":"School","option3":"They","option4":"Run","correctAnswer":3},
+  {"question":"Which is an adjective?","option1":"Beautiful","option2":"Run","option3":"Book","option4":"Quickly","correctAnswer":1},
+  {"question":"Opposite of Day?","option1":"Night","option2":"Morning","option3":"Sun","option4":"Evening","correctAnswer":1},
+  {"question":"Plural of Child?","option1":"Childs","option2":"Children","option3":"Childrens","option4":"Childes","correctAnswer":2},
+  {"question":"Which is a noun?","option1":"Run","option2":"Beautiful","option3":"School","option4":"Quickly","correctAnswer":3},
+  {"question":"Article before umbrella?","option1":"A","option2":"An","option3":"The","option4":"No article","correctAnswer":2},
+  {"question":"Synonym of Brave?","option1":"Coward","option2":"Bold","option3":"Weak","option4":"Lazy","correctAnswer":2},
+  {"question":"Opposite of Success?","option1":"Victory","option2":"Achievement","option3":"Failure","option4":"Progress","correctAnswer":3}
+]

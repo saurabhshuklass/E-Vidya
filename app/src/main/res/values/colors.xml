@@ -1,0 +1,7 @@
+<resources>
+    <color name="primaryBlue">#0D47A1</color>
+    <color name="lightBlue">#E8ECFF</color>
+    <color name="darkGray">#566573</color>
+    <color name="grayText">#7B8194</color>
+    <color name="white">#FFFFFF</color>
+</resources>

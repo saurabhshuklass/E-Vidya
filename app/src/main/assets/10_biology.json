@@ -1,0 +1,22 @@
+[
+  {"question":"Basic unit of life?","option1":"Atom","option2":"Cell","option3":"Organ","option4":"Tissue","correctAnswer":2},
+  {"question":"Who discovered cells?","option1":"Newton","option2":"Hooke","option3":"Darwin","option4":"Einstein","correctAnswer":2},
+  {"question":"Green pigment in plants?","option1":"Melanin","option2":"Hemoglobin","option3":"Chlorophyll","option4":"Protein","correctAnswer":3},
+  {"question":"Human heart has how many chambers?","option1":"2","option2":"3","option3":"4","option4":"5","correctAnswer":3},
+  {"question":"Largest organ of body?","option1":"Liver","option2":"Brain","option3":"Skin","option4":"Heart","correctAnswer":3},
+  {"question":"Organ used for breathing?","option1":"Kidney","option2":"Lungs","option3":"Heart","option4":"Liver","correctAnswer":2},
+  {"question":"Blood is pumped by?","option1":"Brain","option2":"Heart","option3":"Kidney","option4":"Lungs","correctAnswer":2},
+  {"question":"Plants prepare food by?","option1":"Digestion","option2":"Respiration","option3":"Photosynthesis","option4":"Excretion","correctAnswer":3},
+  {"question":"Largest mammal?","option1":"Elephant","option2":"Blue Whale","option3":"Tiger","option4":"Shark","correctAnswer":2},
+  {"question":"Vitamin from sunlight?","option1":"A","option2":"B","option3":"C","option4":"D","correctAnswer":4},
+  {"question":"Human body has how many bones?","option1":"206","option2":"208","option3":"210","option4":"212","correctAnswer":1},
+  {"question":"Blood color due to?","option1":"Protein","option2":"Hemoglobin","option3":"Vitamin","option4":"Chlorophyll","correctAnswer":2},
+  {"question":"Which organ filters blood?","option1":"Liver","option2":"Heart","option3":"Kidney","option4":"Lungs","correctAnswer":3},
+  {"question":"Largest gland?","option1":"Pancreas","option2":"Liver","option3":"Kidney","option4":"Lung","correctAnswer":2},
+  {"question":"Plant cells have?","option1":"Cell wall","option2":"Bones","option3":"Blood","option4":"Muscles","correctAnswer":1},
+  {"question":"Study of life?","option1":"Physics","option2":"Biology","option3":"Chemistry","option4":"Maths","correctAnswer":2},
+  {"question":"Example of herbivore?","option1":"Lion","option2":"Cow","option3":"Tiger","option4":"Wolf","correctAnswer":2},
+  {"question":"Example of carnivore?","option1":"Cow","option2":"Goat","option3":"Lion","option4":"Deer","correctAnswer":3},
+  {"question":"Largest part of brain?","option1":"Medulla","option2":"Cerebrum","option3":"Neuron","option4":"Cerebellum","correctAnswer":2},
+  {"question":"Human blood group discovered by?","option1":"Darwin","option2":"Landsteiner","option3":"Hooke","option4":"Newton","correctAnswer":2}
+]

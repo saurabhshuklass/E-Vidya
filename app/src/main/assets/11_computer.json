@@ -1,0 +1,22 @@
+[
+  {"question":"CPU stands for?","option1":"Central Processing Unit","option2":"Control Processing Unit","option3":"Computer Program Unit","option4":"Central Program Unit","correctAnswer":1},
+  {"question":"Brain of computer?","option1":"RAM","option2":"CPU","option3":"Monitor","option4":"Keyboard","correctAnswer":2},
+  {"question":"Full form of RAM?","option1":"Read Access Memory","option2":"Random Access Memory","option3":"Rapid Access Memory","option4":"Run Access Memory","correctAnswer":2},
+  {"question":"Full form of ROM?","option1":"Read Only Memory","option2":"Run Only Memory","option3":"Random Only Memory","option4":"Read Open Memory","correctAnswer":1},
+  {"question":"Input device?","option1":"Monitor","option2":"Printer","option3":"Keyboard","option4":"Speaker","correctAnswer":3},
+  {"question":"Output device?","option1":"Mouse","option2":"Scanner","option3":"Keyboard","option4":"Monitor","correctAnswer":4},
+  {"question":"WWW stands for?","option1":"World Wide Web","option2":"Wide World Web","option3":"World Web Wide","option4":"Web World Wide","correctAnswer":1},
+  {"question":"Google is a?","option1":"Hardware","option2":"Search Engine","option3":"OS","option4":"Browser","correctAnswer":2},
+  {"question":"MS Word is used for?","option1":"Typing","option2":"Gaming","option3":"Music","option4":"Drawing","correctAnswer":1},
+  {"question":"Excel is used for?","option1":"Spreadsheet","option2":"Browser","option3":"Video Editing","option4":"Gaming","correctAnswer":1},
+  {"question":"Shortcut for Copy?","option1":"Ctrl+V","option2":"Ctrl+C","option3":"Ctrl+X","option4":"Ctrl+S","correctAnswer":2},
+  {"question":"Shortcut for Paste?","option1":"Ctrl+C","option2":"Ctrl+X","option3":"Ctrl+V","option4":"Ctrl+P","correctAnswer":3},
+  {"question":"Storage device?","option1":"Mouse","option2":"Monitor","option3":"Hard Disk","option4":"Keyboard","correctAnswer":3},
+  {"question":"Operating System example?","option1":"Windows","option2":"CPU","option3":"Keyboard","option4":"Mouse","correctAnswer":1},
+  {"question":"Programming language?","option1":"Java","option2":"Monitor","option3":"Mouse","option4":"Printer","correctAnswer":1},
+  {"question":"Android apps are mainly developed in?","option1":"Java/Kotlin","option2":"HTML","option3":"SQL","option4":"PHP","correctAnswer":1},
+  {"question":"1 GB = ?","option1":"1024 MB","option2":"1000 KB","option3":"1024 KB","option4":"100 MB","correctAnswer":1},
+  {"question":"Internet is a?","option1":"Network","option2":"Software","option3":"Hardware","option4":"Browser","correctAnswer":1},
+  {"question":"Which is a browser?","option1":"Chrome","option2":"Windows","option3":"CPU","option4":"RAM","correctAnswer":1},
+  {"question":"Database software?","option1":"MySQL","option2":"Paint","option3":"Chrome","option4":"WordPad","correctAnswer":1}
+]

@@ -1,0 +1,22 @@
+[
+  {"question":"CPU stands for?","option1":"Central Processing Unit","option2":"Computer Processing Unit","option3":"Central Program Unit","option4":"Control Process Unit","correctAnswer":1},
+  {"question":"Brain of computer?","option1":"Mouse","option2":"Monitor","option3":"CPU","option4":"Keyboard","correctAnswer":3},
+  {"question":"Input device?","option1":"Monitor","option2":"Printer","option3":"Keyboard","option4":"Speaker","correctAnswer":3},
+  {"question":"Output device?","option1":"Mouse","option2":"Monitor","option3":"Scanner","option4":"Keyboard","correctAnswer":2},
+  {"question":"Full form of RAM?","option1":"Random Access Memory","option2":"Read Access Memory","option3":"Rapid Access Memory","option4":"Run Access Memory","correctAnswer":1},
+  {"question":"Full form of ROM?","option1":"Read Only Memory","option2":"Run Only Memory","option3":"Random Only Memory","option4":"Read Open Memory","correctAnswer":1},
+  {"question":"Which is software?","option1":"Keyboard","option2":"Windows","option3":"Mouse","option4":"Monitor","correctAnswer":2},
+  {"question":"Which is hardware?","option1":"MS Word","option2":"Windows","option3":"Keyboard","option4":"Chrome","correctAnswer":3},
+  {"question":"Computer language?","option1":"HTML","option2":"English","option3":"Hindi","option4":"French","correctAnswer":1},
+  {"question":"Internet browser?","option1":"Chrome","option2":"Excel","option3":"Word","option4":"Paint","correctAnswer":1},
+  {"question":"WWW stands for?","option1":"World Wide Web","option2":"World Web Wide","option3":"Wide World Web","option4":"Web World Wide","correctAnswer":1},
+  {"question":"Storage device?","option1":"Hard Disk","option2":"Monitor","option3":"Mouse","option4":"Keyboard","correctAnswer":1},
+  {"question":"MS Word is used for?","option1":"Typing","option2":"Drawing","option3":"Browsing","option4":"Gaming","correctAnswer":1},
+  {"question":"Excel is used for?","option1":"Spreadsheet","option2":"Music","option3":"Video","option4":"Drawing","correctAnswer":1},
+  {"question":"Shortcut for Copy?","option1":"Ctrl+C","option2":"Ctrl+V","option3":"Ctrl+X","option4":"Ctrl+S","correctAnswer":1},
+  {"question":"Shortcut for Paste?","option1":"Ctrl+C","option2":"Ctrl+V","option3":"Ctrl+X","option4":"Ctrl+P","correctAnswer":2},
+  {"question":"Device used to print?","option1":"Monitor","option2":"Printer","option3":"Scanner","option4":"Speaker","correctAnswer":2},
+  {"question":"Operating System example?","option1":"Windows","option2":"Mouse","option3":"Keyboard","option4":"CPU","correctAnswer":1},
+  {"question":"Google is?","option1":"Search Engine","option2":"Browser","option3":"OS","option4":"Hardware","correctAnswer":1},
+  {"question":"1 KB equals?","option1":"1024 Bytes","option2":"100 Bytes","option3":"1024 MB","option4":"1000 GB","correctAnswer":1}
+]

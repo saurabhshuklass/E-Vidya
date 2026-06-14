@@ -1,0 +1,22 @@
+[
+  {"question":"Basic unit of life?","option1":"Cell","option2":"Tissue","option3":"Organ","option4":"Atom","correctAnswer":1},
+  {"question":"Who discovered cell?","option1":"Hooke","option2":"Darwin","option3":"Newton","option4":"Pasteur","correctAnswer":1},
+  {"question":"Powerhouse of cell?","option1":"Nucleus","option2":"Mitochondria","option3":"Ribosome","option4":"Golgi Body","correctAnswer":2},
+  {"question":"Green pigment in plants?","option1":"Hemoglobin","option2":"Melanin","option3":"Chlorophyll","option4":"Protein","correctAnswer":3},
+  {"question":"Human heart has how many chambers?","option1":"2","option2":"3","option3":"4","option4":"5","correctAnswer":3},
+  {"question":"Largest organ of human body?","option1":"Liver","option2":"Skin","option3":"Heart","option4":"Brain","correctAnswer":2},
+  {"question":"Organ for respiration?","option1":"Heart","option2":"Liver","option3":"Kidney","option4":"Lungs","correctAnswer":4},
+  {"question":"Vitamin obtained from sunlight?","option1":"A","option2":"B","option3":"C","option4":"D","correctAnswer":4},
+  {"question":"Blood is pumped by?","option1":"Brain","option2":"Heart","option3":"Kidney","option4":"Lungs","correctAnswer":2},
+  {"question":"Largest gland in body?","option1":"Pancreas","option2":"Liver","option3":"Kidney","option4":"Lung","correctAnswer":2},
+  {"question":"Study of life is called?","option1":"Physics","option2":"Chemistry","option3":"Biology","option4":"Maths","correctAnswer":3},
+  {"question":"Human body contains how many bones?","option1":"206","option2":"208","option3":"210","option4":"212","correctAnswer":1},
+  {"question":"Blood color due to?","option1":"Protein","option2":"Hemoglobin","option3":"Vitamin","option4":"Chlorophyll","correctAnswer":2},
+  {"question":"Plant cells contain?","option1":"Cell Wall","option2":"Bones","option3":"Blood","option4":"Muscles","correctAnswer":1},
+  {"question":"Example of herbivore?","option1":"Tiger","option2":"Lion","option3":"Cow","option4":"Wolf","correctAnswer":3},
+  {"question":"Example of carnivore?","option1":"Cow","option2":"Goat","option3":"Lion","option4":"Deer","correctAnswer":3},
+  {"question":"Brain is part of which system?","option1":"Digestive","option2":"Respiratory","option3":"Nervous","option4":"Circulatory","correctAnswer":3},
+  {"question":"Kidney function?","option1":"Pump blood","option2":"Filter blood","option3":"Breathing","option4":"Digestion","correctAnswer":2},
+  {"question":"Photosynthesis occurs in?","option1":"Roots","option2":"Stem","option3":"Leaves","option4":"Flower","correctAnswer":3},
+  {"question":"Largest mammal?","option1":"Elephant","option2":"Blue Whale","option3":"Tiger","option4":"Shark","correctAnswer":2}
+]

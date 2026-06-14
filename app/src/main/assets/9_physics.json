@@ -1,0 +1,162 @@
+[
+  {
+    "question":"SI unit of force?",
+    "option1":"Newton",
+    "option2":"Joule",
+    "option3":"Watt",
+    "option4":"Pascal",
+    "correctAnswer":1
+  },
+  {
+    "question":"Who discovered gravity?",
+    "option1":"Newton",
+    "option2":"Einstein",
+    "option3":"Galileo",
+    "option4":"Tesla",
+    "correctAnswer":1
+  },
+  {
+    "question":"Unit of energy?",
+    "option1":"Newton",
+    "option2":"Joule",
+    "option3":"Watt",
+    "option4":"Volt",
+    "correctAnswer":2
+  },
+  {
+    "question":"Speed = ?",
+    "option1":"Distance/Time",
+    "option2":"Time/Distance",
+    "option3":"Mass/Time",
+    "option4":"Force/Area",
+    "correctAnswer":1
+  },
+  {
+    "question":"SI unit of power?",
+    "option1":"Joule",
+    "option2":"Newton",
+    "option3":"Watt",
+    "option4":"Volt",
+    "correctAnswer":3
+  },
+  {
+    "question":"Instrument to measure temperature?",
+    "option1":"Barometer",
+    "option2":"Thermometer",
+    "option3":"Ammeter",
+    "option4":"Voltmeter",
+    "correctAnswer":2
+  },
+  {
+    "question":"Unit of current?",
+    "option1":"Volt",
+    "option2":"Ampere",
+    "option3":"Watt",
+    "option4":"Joule",
+    "correctAnswer":2
+  },
+  {
+    "question":"Device to measure current?",
+    "option1":"Voltmeter",
+    "option2":"Thermometer",
+    "option3":"Ammeter",
+    "option4":"Barometer",
+    "correctAnswer":3
+  },
+  {
+    "question":"Unit of voltage?",
+    "option1":"Volt",
+    "option2":"Ampere",
+    "option3":"Newton",
+    "option4":"Joule",
+    "correctAnswer":1
+  },
+  {
+    "question":"Earth attracts objects due to?",
+    "option1":"Magnetism",
+    "option2":"Gravity",
+    "option3":"Electricity",
+    "option4":"Pressure",
+    "correctAnswer":2
+  },
+  {
+    "question":"Light travels fastest in?",
+    "option1":"Water",
+    "option2":"Glass",
+    "option3":"Vacuum",
+    "option4":"Air",
+    "correctAnswer":3
+  },
+  {
+    "question":"SI unit of mass?",
+    "option1":"Gram",
+    "option2":"Kilogram",
+    "option3":"Newton",
+    "option4":"Joule",
+    "correctAnswer":2
+  },
+  {
+    "question":"Sound travels through?",
+    "option1":"Vacuum",
+    "option2":"Medium",
+    "option3":"Nothing",
+    "option4":"Space only",
+    "correctAnswer":2
+  },
+  {
+    "question":"Which is renewable energy?",
+    "option1":"Coal",
+    "option2":"Petrol",
+    "option3":"Solar",
+    "option4":"Diesel",
+    "correctAnswer":3
+  },
+  {
+    "question":"Mirror used in vehicles?",
+    "option1":"Plane",
+    "option2":"Convex",
+    "option3":"Concave",
+    "option4":"Lens",
+    "correctAnswer":2
+  },
+  {
+    "question":"Unit of pressure?",
+    "option1":"Pascal",
+    "option2":"Joule",
+    "option3":"Volt",
+    "option4":"Ampere",
+    "correctAnswer":1
+  },
+  {
+    "question":"Energy stored in food?",
+    "option1":"Chemical",
+    "option2":"Electrical",
+    "option3":"Heat",
+    "option4":"Light",
+    "correctAnswer":1
+  },
+  {
+    "question":"SI unit of work?",
+    "option1":"Watt",
+    "option2":"Joule",
+    "option3":"Newton",
+    "option4":"Volt",
+    "correctAnswer":2
+  },
+  {
+    "question":"Force causing motion?",
+    "option1":"Push/Pull",
+    "option2":"Light",
+    "option3":"Heat",
+    "option4":"Sound",
+    "correctAnswer":1
+  },
+  {
+    "question":"Speedometer measures?",
+    "option1":"Distance",
+    "option2":"Speed",
+    "option3":"Time",
+    "option4":"Force",
+    "correctAnswer":2
+  }
+]

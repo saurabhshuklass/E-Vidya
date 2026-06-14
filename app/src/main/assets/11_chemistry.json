@@ -1,0 +1,22 @@
+[
+  {"question":"Atomic number of Hydrogen?","option1":"1","option2":"2","option3":"3","option4":"4","correctAnswer":1},
+  {"question":"Chemical symbol of Sodium?","option1":"S","option2":"So","option3":"Na","option4":"N","correctAnswer":3},
+  {"question":"pH of pure water?","option1":"5","option2":"6","option3":"7","option4":"8","correctAnswer":3},
+  {"question":"Who proposed Atomic Theory?","option1":"Dalton","option2":"Bohr","option3":"Newton","option4":"Einstein","correctAnswer":1},
+  {"question":"Chemical formula of methane?","option1":"CH2","option2":"CH4","option3":"C2H4","option4":"CO2","correctAnswer":2},
+  {"question":"SI unit of amount of substance?","option1":"Gram","option2":"Mole","option3":"Kilogram","option4":"Liter","correctAnswer":2},
+  {"question":"Chemical symbol of Potassium?","option1":"P","option2":"Po","option3":"K","option4":"Pt","correctAnswer":3},
+  {"question":"Strong acid example?","option1":"HCl","option2":"Water","option3":"NaOH","option4":"Sugar","correctAnswer":1},
+  {"question":"Gas evolved in photosynthesis?","option1":"Nitrogen","option2":"Hydrogen","option3":"Oxygen","option4":"Carbon Dioxide","correctAnswer":3},
+  {"question":"Chemical formula of ammonia?","option1":"NH3","option2":"NO2","option3":"N2O","option4":"NH2","correctAnswer":1},
+  {"question":"Symbol of Gold?","option1":"G","option2":"Au","option3":"Ag","option4":"Go","correctAnswer":2},
+  {"question":"Symbol of Silver?","option1":"Si","option2":"Ag","option3":"Al","option4":"Au","correctAnswer":2},
+  {"question":"Most abundant gas in air?","option1":"Oxygen","option2":"Nitrogen","option3":"Hydrogen","option4":"Helium","correctAnswer":2},
+  {"question":"Chemical formula of Sulfuric Acid?","option1":"HCl","option2":"HNO3","option3":"H2SO4","option4":"NaOH","correctAnswer":3},
+  {"question":"Periodic table was developed by?","option1":"Dalton","option2":"Mendeleev","option3":"Bohr","option4":"Rutherford","correctAnswer":2},
+  {"question":"Atomic number of Carbon?","option1":"4","option2":"5","option3":"6","option4":"7","correctAnswer":3},
+  {"question":"Acids turn blue litmus?","option1":"Green","option2":"Yellow","option3":"Red","option4":"Blue","correctAnswer":3},
+  {"question":"Base turns red litmus?","option1":"Blue","option2":"Green","option3":"Yellow","option4":"Red","correctAnswer":1},
+  {"question":"Chemical formula of common salt?","option1":"NaCl","option2":"KCl","option3":"CaCl2","option4":"NaOH","correctAnswer":1},
+  {"question":"Smallest particle of element?","option1":"Cell","option2":"Atom","option3":"Molecule","option4":"Electron","correctAnswer":2}
+]

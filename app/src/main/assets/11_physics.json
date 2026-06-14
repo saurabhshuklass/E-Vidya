@@ -1,0 +1,22 @@
+[
+  {"question":"SI unit of force?","option1":"Joule","option2":"Newton","option3":"Watt","option4":"Pascal","correctAnswer":2},
+  {"question":"Who gave the laws of motion?","option1":"Einstein","option2":"Newton","option3":"Bohr","option4":"Galileo","correctAnswer":2},
+  {"question":"SI unit of work?","option1":"Joule","option2":"Newton","option3":"Watt","option4":"Volt","correctAnswer":1},
+  {"question":"Speed of light in vacuum?","option1":"3×10⁸ m/s","option2":"3×10⁶ m/s","option3":"3×10⁴ m/s","option4":"3×10² m/s","correctAnswer":1},
+  {"question":"Unit of power?","option1":"Volt","option2":"Ampere","option3":"Watt","option4":"Joule","correctAnswer":3},
+  {"question":"SI unit of current?","option1":"Volt","option2":"Ampere","option3":"Joule","option4":"Watt","correctAnswer":2},
+  {"question":"What causes gravity?","option1":"Mass","option2":"Light","option3":"Pressure","option4":"Heat","correctAnswer":1},
+  {"question":"Unit of pressure?","option1":"Pascal","option2":"Newton","option3":"Joule","option4":"Volt","correctAnswer":1},
+  {"question":"Energy of moving object?","option1":"Potential","option2":"Kinetic","option3":"Thermal","option4":"Chemical","correctAnswer":2},
+  {"question":"Unit of frequency?","option1":"Hertz","option2":"Joule","option3":"Volt","option4":"Newton","correctAnswer":1},
+  {"question":"Mirror used in headlights?","option1":"Plane","option2":"Convex","option3":"Concave","option4":"None","correctAnswer":3},
+  {"question":"Unit of momentum?","option1":"kg·m/s","option2":"Joule","option3":"Watt","option4":"Pascal","correctAnswer":1},
+  {"question":"SI unit of temperature?","option1":"Celsius","option2":"Kelvin","option3":"Fahrenheit","option4":"Joule","correctAnswer":2},
+  {"question":"Instrument to measure current?","option1":"Voltmeter","option2":"Ammeter","option3":"Barometer","option4":"Thermometer","correctAnswer":2},
+  {"question":"Unit of charge?","option1":"Coulomb","option2":"Volt","option3":"Ampere","option4":"Watt","correctAnswer":1},
+  {"question":"Newton's First Law is also called?","option1":"Law of Inertia","option2":"Law of Motion","option3":"Law of Force","option4":"Law of Work","correctAnswer":1},
+  {"question":"Unit of energy?","option1":"Newton","option2":"Joule","option3":"Volt","option4":"Ampere","correctAnswer":2},
+  {"question":"Which wave does not need medium?","option1":"Sound","option2":"Light","option3":"Water","option4":"Mechanical","correctAnswer":2},
+  {"question":"What is acceleration?","option1":"Rate of change of velocity","option2":"Distance","option3":"Speed","option4":"Force","correctAnswer":1},
+  {"question":"SI unit of velocity?","option1":"m/s","option2":"km","option3":"kg","option4":"N","correctAnswer":1}
+]

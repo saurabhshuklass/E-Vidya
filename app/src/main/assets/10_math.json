@@ -1,0 +1,22 @@
+[
+  {"question":"What is the value of x in 2x=10?","option1":"3","option2":"4","option3":"5","option4":"6","correctAnswer":3},
+  {"question":"Square root of 144?","option1":"10","option2":"11","option3":"12","option4":"13","correctAnswer":3},
+  {"question":"15² = ?","option1":"225","option2":"215","option3":"205","option4":"235","correctAnswer":1},
+  {"question":"Value of π approximately?","option1":"3.14","option2":"2.14","option3":"4.13","option4":"3.41","correctAnswer":1},
+  {"question":"Area of circle formula?","option1":"πr²","option2":"2πr","option3":"r²","option4":"πd","correctAnswer":1},
+  {"question":"20% of 250?","option1":"25","option2":"50","option3":"75","option4":"100","correctAnswer":2},
+  {"question":"25 × 12 = ?","option1":"250","option2":"275","option3":"300","option4":"325","correctAnswer":3},
+  {"question":"Cube of 4?","option1":"16","option2":"64","option3":"32","option4":"48","correctAnswer":2},
+  {"question":"HCF of 18 and 24?","option1":"4","option2":"6","option3":"8","option4":"12","correctAnswer":2},
+  {"question":"LCM of 8 and 12?","option1":"12","option2":"24","option3":"36","option4":"48","correctAnswer":2},
+  {"question":"45 ÷ 5 = ?","option1":"8","option2":"9","option3":"10","option4":"11","correctAnswer":2},
+  {"question":"Perimeter of square side 8?","option1":"24","option2":"28","option3":"32","option4":"36","correctAnswer":3},
+  {"question":"Area of square side 8?","option1":"64","option2":"56","option3":"72","option4":"80","correctAnswer":1},
+  {"question":"What is 13 × 13?","option1":"169","option2":"159","option3":"179","option4":"189","correctAnswer":1},
+  {"question":"Value of 7³?","option1":"243","option2":"343","option3":"443","option4":"543","correctAnswer":2},
+  {"question":"50% of 400?","option1":"100","option2":"150","option3":"200","option4":"250","correctAnswer":3},
+  {"question":"0.5 as fraction?","option1":"1/2","option2":"1/3","option3":"2/3","option4":"3/4","correctAnswer":1},
+  {"question":"90 + 110 = ?","option1":"180","option2":"190","option3":"200","option4":"210","correctAnswer":3},
+  {"question":"Value of 12×9?","option1":"96","option2":"108","option3":"118","option4":"128","correctAnswer":2},
+  {"question":"1 km = ?","option1":"10 m","option2":"100 m","option3":"1000 m","option4":"10000 m","correctAnswer":3}
+]

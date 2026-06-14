@@ -1,0 +1,22 @@
+[
+  {"question":"SI unit of force?","option1":"Newton","option2":"Joule","option3":"Watt","option4":"Pascal","correctAnswer":1},
+  {"question":"Who proposed laws of motion?","option1":"Newton","option2":"Einstein","option3":"Bohr","option4":"Galileo","correctAnswer":1},
+  {"question":"Unit of work?","option1":"Newton","option2":"Joule","option3":"Watt","option4":"Volt","correctAnswer":2},
+  {"question":"Speed = ?","option1":"Distance/Time","option2":"Time/Distance","option3":"Force/Area","option4":"Mass/Volume","correctAnswer":1},
+  {"question":"SI unit of power?","option1":"Watt","option2":"Joule","option3":"Volt","option4":"Newton","correctAnswer":1},
+  {"question":"Light travels fastest in?","option1":"Water","option2":"Glass","option3":"Vacuum","option4":"Air","correctAnswer":3},
+  {"question":"SI unit of current?","option1":"Volt","option2":"Ampere","option3":"Watt","option4":"Joule","correctAnswer":2},
+  {"question":"Device to measure current?","option1":"Voltmeter","option2":"Ammeter","option3":"Barometer","option4":"Thermometer","correctAnswer":2},
+  {"question":"Mirror used in vehicles?","option1":"Concave","option2":"Plane","option3":"Convex","option4":"Lens","correctAnswer":3},
+  {"question":"Unit of pressure?","option1":"Pascal","option2":"Volt","option3":"Joule","option4":"Ampere","correctAnswer":1},
+  {"question":"Energy stored in food?","option1":"Chemical","option2":"Electrical","option3":"Heat","option4":"Light","correctAnswer":1},
+  {"question":"SI unit of mass?","option1":"Gram","option2":"Kilogram","option3":"Newton","option4":"Joule","correctAnswer":2},
+  {"question":"Which energy comes from Sun?","option1":"Wind","option2":"Solar","option3":"Thermal","option4":"Hydro","correctAnswer":2},
+  {"question":"Speed of light is about?","option1":"3×10⁸ m/s","option2":"3×10⁶ m/s","option3":"3×10⁴ m/s","option4":"3×10² m/s","correctAnswer":1},
+  {"question":"SI unit of temperature?","option1":"Celsius","option2":"Kelvin","option3":"Fahrenheit","option4":"Joule","correctAnswer":2},
+  {"question":"Earth attracts objects due to?","option1":"Gravity","option2":"Pressure","option3":"Magnetism","option4":"Heat","correctAnswer":1},
+  {"question":"Instrument to measure voltage?","option1":"Voltmeter","option2":"Ammeter","option3":"Thermometer","option4":"Barometer","correctAnswer":1},
+  {"question":"Energy cannot be?","option1":"Created or destroyed","option2":"Transferred","option3":"Stored","option4":"Measured","correctAnswer":1},
+  {"question":"Which is renewable?","option1":"Coal","option2":"Petrol","option3":"Solar","option4":"Diesel","correctAnswer":3},
+  {"question":"Unit of frequency?","option1":"Hertz","option2":"Joule","option3":"Volt","option4":"Newton","correctAnswer":1}
+]

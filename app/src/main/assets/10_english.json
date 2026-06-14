@@ -1,0 +1,22 @@
+[
+  {"question":"Opposite of Happy?","option1":"Sad","option2":"Joyful","option3":"Smile","option4":"Glad","correctAnswer":1},
+  {"question":"Synonym of Big?","option1":"Tiny","option2":"Large","option3":"Small","option4":"Short","correctAnswer":2},
+  {"question":"Plural of Child?","option1":"Childs","option2":"Children","option3":"Childrens","option4":"Childes","correctAnswer":2},
+  {"question":"Past tense of Go?","option1":"Gone","option2":"Going","option3":"Went","option4":"Goed","correctAnswer":3},
+  {"question":"Article before apple?","option1":"A","option2":"An","option3":"The","option4":"No article","correctAnswer":2},
+  {"question":"Synonym of Fast?","option1":"Quick","option2":"Slow","option3":"Weak","option4":"Lazy","correctAnswer":1},
+  {"question":"Opposite of Rich?","option1":"Strong","option2":"Poor","option3":"Kind","option4":"Large","correctAnswer":2},
+  {"question":"Verb in 'I play cricket'?","option1":"I","option2":"Play","option3":"Cricket","option4":"None","correctAnswer":2},
+  {"question":"Correct spelling?","option1":"Beautifool","option2":"Beautifull","option3":"Beautiful","option4":"Beautifal","correctAnswer":3},
+  {"question":"Opposite of Hot?","option1":"Warm","option2":"Cold","option3":"Cool","option4":"Heat","correctAnswer":2},
+  {"question":"Synonym of Smart?","option1":"Intelligent","option2":"Lazy","option3":"Weak","option4":"Dull","correctAnswer":1},
+  {"question":"Past tense of Eat?","option1":"Eating","option2":"Ate","option3":"Eaten","option4":"Eated","correctAnswer":2},
+  {"question":"Which is a pronoun?","option1":"Book","option2":"Boy","option3":"He","option4":"Run","correctAnswer":3},
+  {"question":"Which is an adjective?","option1":"Beautiful","option2":"Run","option3":"School","option4":"Book","correctAnswer":1},
+  {"question":"Opposite of Day?","option1":"Night","option2":"Morning","option3":"Sun","option4":"Evening","correctAnswer":1},
+  {"question":"Synonym of Begin?","option1":"Stop","option2":"Start","option3":"End","option4":"Finish","correctAnswer":2},
+  {"question":"Article before University?","option1":"An","option2":"A","option3":"The","option4":"No article","correctAnswer":2},
+  {"question":"Past tense of Write?","option1":"Written","option2":"Writing","option3":"Writes","option4":"Wrote","correctAnswer":4},
+  {"question":"Plural of Book?","option1":"Books","option2":"Bookes","option3":"Bookies","option4":"Bookses","correctAnswer":1},
+  {"question":"Which is a noun?","option1":"Run","option2":"Beautiful","option3":"School","option4":"Quickly","correctAnswer":3}
+]

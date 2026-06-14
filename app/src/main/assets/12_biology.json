@@ -1,0 +1,22 @@
+[
+  {"question":"Basic unit of life?","option1":"Cell","option2":"Tissue","option3":"Organ","option4":"Atom","correctAnswer":1},
+  {"question":"Powerhouse of cell?","option1":"Nucleus","option2":"Mitochondria","option3":"Golgi Body","option4":"Ribosome","correctAnswer":2},
+  {"question":"Who proposed Theory of Evolution?","option1":"Darwin","option2":"Hooke","option3":"Pasteur","option4":"Newton","correctAnswer":1},
+  {"question":"Human heart has chambers?","option1":"2","option2":"3","option3":"4","option4":"5","correctAnswer":3},
+  {"question":"Largest organ of body?","option1":"Heart","option2":"Skin","option3":"Liver","option4":"Brain","correctAnswer":2},
+  {"question":"Vitamin obtained from sunlight?","option1":"A","option2":"B","option3":"C","option4":"D","correctAnswer":4},
+  {"question":"Organ responsible for respiration?","option1":"Heart","option2":"Lungs","option3":"Kidney","option4":"Liver","correctAnswer":2},
+  {"question":"Blood is pumped by?","option1":"Heart","option2":"Brain","option3":"Kidney","option4":"Lungs","correctAnswer":1},
+  {"question":"Largest gland in body?","option1":"Pancreas","option2":"Liver","option3":"Kidney","option4":"Lung","correctAnswer":2},
+  {"question":"Study of life?","option1":"Physics","option2":"Chemistry","option3":"Biology","option4":"Maths","correctAnswer":3},
+  {"question":"Human body contains bones?","option1":"206","option2":"208","option3":"210","option4":"212","correctAnswer":1},
+  {"question":"Blood contains?","option1":"Hemoglobin","option2":"Chlorophyll","option3":"Protein only","option4":"Vitamin","correctAnswer":1},
+  {"question":"Plant cell contains?","option1":"Cell Wall","option2":"Bone","option3":"Blood","option4":"Muscle","correctAnswer":1},
+  {"question":"Example of herbivore?","option1":"Lion","option2":"Tiger","option3":"Cow","option4":"Wolf","correctAnswer":3},
+  {"question":"Example of carnivore?","option1":"Cow","option2":"Goat","option3":"Lion","option4":"Rabbit","correctAnswer":3},
+  {"question":"Brain belongs to?","option1":"Digestive System","option2":"Nervous System","option3":"Respiratory System","option4":"Circulatory System","correctAnswer":2},
+  {"question":"Kidney function?","option1":"Breathing","option2":"Filter Blood","option3":"Pump Blood","option4":"Digestion","correctAnswer":2},
+  {"question":"Photosynthesis occurs in?","option1":"Stem","option2":"Roots","option3":"Leaves","option4":"Flower","correctAnswer":3},
+  {"question":"Largest mammal?","option1":"Elephant","option2":"Blue Whale","option3":"Tiger","option4":"Shark","correctAnswer":2},
+  {"question":"Green pigment in plants?","option1":"Hemoglobin","option2":"Melanin","option3":"Chlorophyll","option4":"Protein","correctAnswer":3}
+]

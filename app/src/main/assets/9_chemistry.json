@@ -1,0 +1,22 @@
+[
+  {"question":"Smallest unit of matter?","option1":"Atom","option2":"Cell","option3":"Molecule","option4":"Electron","correctAnswer":1},
+  {"question":"H2O is?","option1":"Hydrogen","option2":"Water","option3":"Oxygen","option4":"Salt","correctAnswer":2},
+  {"question":"Chemical symbol of Oxygen?","option1":"O","option2":"Ox","option3":"Og","option4":"On","correctAnswer":1},
+  {"question":"Chemical symbol of Hydrogen?","option1":"Hy","option2":"H","option3":"Hd","option4":"Hg","correctAnswer":2},
+  {"question":"pH value of neutral solution?","option1":"5","option2":"6","option3":"7","option4":"8","correctAnswer":3},
+  {"question":"Acid turns blue litmus to?","option1":"Green","option2":"Red","option3":"Yellow","option4":"Black","correctAnswer":2},
+  {"question":"Base turns red litmus to?","option1":"Blue","option2":"Green","option3":"Yellow","option4":"White","correctAnswer":1},
+  {"question":"NaCl is?","option1":"Sugar","option2":"Salt","option3":"Water","option4":"Acid","correctAnswer":2},
+  {"question":"Atomic number of Carbon?","option1":"4","option2":"5","option3":"6","option4":"7","correctAnswer":3},
+  {"question":"Gas essential for breathing?","option1":"Nitrogen","option2":"Oxygen","option3":"Hydrogen","option4":"Helium","correctAnswer":2},
+  {"question":"Chemical symbol of Gold?","option1":"Go","option2":"Au","option3":"Ag","option4":"Gd","correctAnswer":2},
+  {"question":"Chemical symbol of Silver?","option1":"Si","option2":"Sl","option3":"Ag","option4":"Sv","correctAnswer":3},
+  {"question":"Periodic table was developed by?","option1":"Newton","option2":"Mendeleev","option3":"Einstein","option4":"Dalton","correctAnswer":2},
+  {"question":"Pure water is?","option1":"Acidic","option2":"Basic","option3":"Neutral","option4":"Salt","correctAnswer":3},
+  {"question":"Matter occupies?","option1":"Space","option2":"Time","option3":"Energy","option4":"Light","correctAnswer":1},
+  {"question":"Example of compound?","option1":"Oxygen","option2":"Hydrogen","option3":"Water","option4":"Gold","correctAnswer":3},
+  {"question":"Example of element?","option1":"Water","option2":"Salt","option3":"Oxygen","option4":"Sugar","correctAnswer":3},
+  {"question":"Gas used in balloons?","option1":"Oxygen","option2":"Nitrogen","option3":"Helium","option4":"Hydrogen","correctAnswer":3},
+  {"question":"Unit of atomic mass?","option1":"kg","option2":"amu","option3":"gm","option4":"cm","correctAnswer":2},
+  {"question":"Chemical formula of Carbon Dioxide?","option1":"CO","option2":"CO2","option3":"C2O","option4":"O2","correctAnswer":2}
+]

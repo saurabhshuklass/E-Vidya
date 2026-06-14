@@ -1,0 +1,22 @@
+[
+  {"question":"Opposite of Happy?","option1":"Sad","option2":"Glad","option3":"Joyful","option4":"Smile","correctAnswer":1},
+  {"question":"Synonym of Big?","option1":"Tiny","option2":"Large","option3":"Short","option4":"Small","correctAnswer":2},
+  {"question":"Plural of Child?","option1":"Childs","option2":"Children","option3":"Childes","option4":"Childrens","correctAnswer":2},
+  {"question":"Past tense of Go?","option1":"Goed","option2":"Gone","option3":"Went","option4":"Going","correctAnswer":3},
+  {"question":"Article before apple?","option1":"A","option2":"An","option3":"The","option4":"No article","correctAnswer":2},
+  {"question":"Synonym of Fast?","option1":"Quick","option2":"Slow","option3":"Lazy","option4":"Weak","correctAnswer":1},
+  {"question":"Opposite of Rich?","option1":"Strong","option2":"Poor","option3":"Large","option4":"Kind","correctAnswer":2},
+  {"question":"Verb in sentence 'I play cricket'?","option1":"I","option2":"Play","option3":"Cricket","option4":"None","correctAnswer":2},
+  {"question":"Noun in 'Ravi is a boy'?","option1":"Is","option2":"Boy","option3":"Ravi","option4":"Both","correctAnswer":4},
+  {"question":"Correct spelling?","option1":"Beautifull","option2":"Beautiful","option3":"Beautifool","option4":"Beautifal","correctAnswer":2},
+  {"question":"Plural of Book?","option1":"Books","option2":"Bookes","option3":"Books","option4":"Bookies","correctAnswer":1},
+  {"question":"Opposite of Hot?","option1":"Warm","option2":"Cold","option3":"Cool","option4":"Heat","correctAnswer":2},
+  {"question":"Synonym of Smart?","option1":"Intelligent","option2":"Dull","option3":"Weak","option4":"Lazy","correctAnswer":1},
+  {"question":"Past tense of Eat?","option1":"Eating","option2":"Eated","option3":"Ate","option4":"Eaten","correctAnswer":3},
+  {"question":"Which is a pronoun?","option1":"He","option2":"Boy","option3":"Run","option4":"Book","correctAnswer":1},
+  {"question":"Which is an adjective?","option1":"Beautiful","option2":"Run","option3":"Book","option4":"School","correctAnswer":1},
+  {"question":"Opposite of Day?","option1":"Night","option2":"Evening","option3":"Morning","option4":"Sun","correctAnswer":1},
+  {"question":"Synonym of Begin?","option1":"Start","option2":"Stop","option3":"End","option4":"Finish","correctAnswer":1},
+  {"question":"Article before University?","option1":"An","option2":"A","option3":"The","option4":"No article","correctAnswer":2},
+  {"question":"Past tense of Write?","option1":"Written","option2":"Wrote","option3":"Writing","option4":"Writes","correctAnswer":2}
+]

@@ -1,0 +1,22 @@
+[
+  {"question":"What is the value of sin 90°?","option1":"0","option2":"1","option3":"-1","option4":"1/2","correctAnswer":2},
+  {"question":"What is the value of cos 0°?","option1":"0","option2":"1","option3":"1/2","option4":"-1","correctAnswer":2},
+  {"question":"What is log₁₀(100)?","option1":"1","option2":"2","option3":"10","option4":"100","correctAnswer":2},
+  {"question":"Derivative of x²?","option1":"x","option2":"2x","option3":"x²","option4":"2","correctAnswer":2},
+  {"question":"Value of tan 45°?","option1":"0","option2":"1","option3":"2","option4":"√3","correctAnswer":2},
+  {"question":"How many degrees in a straight angle?","option1":"90","option2":"180","option3":"270","option4":"360","correctAnswer":2},
+  {"question":"What is √225?","option1":"14","option2":"15","option3":"16","option4":"17","correctAnswer":2},
+  {"question":"Value of 2⁵?","option1":"16","option2":"32","option3":"64","option4":"128","correctAnswer":2},
+  {"question":"Formula of quadratic equation?","option1":"ax+b","option2":"ax²+bx+c","option3":"a+b","option4":"a²+b²","correctAnswer":2},
+  {"question":"Value of sin 30°?","option1":"1","option2":"1/2","option3":"√3","option4":"0","correctAnswer":2},
+  {"question":"What is 12²?","option1":"124","option2":"144","option3":"154","option4":"164","correctAnswer":2},
+  {"question":"Value of cos 60°?","option1":"1","option2":"1/2","option3":"0","option4":"√3","correctAnswer":2},
+  {"question":"Value of π approximately?","option1":"3.14","option2":"2.14","option3":"4.14","option4":"1.14","correctAnswer":1},
+  {"question":"What is 5!?","option1":"25","option2":"60","option3":"120","option4":"240","correctAnswer":3},
+  {"question":"Number of diagonals in a pentagon?","option1":"3","option2":"4","option3":"5","option4":"6","correctAnswer":3},
+  {"question":"What is 7³?","option1":"243","option2":"343","option3":"443","option4":"543","correctAnswer":2},
+  {"question":"Value of tan 0°?","option1":"0","option2":"1","option3":"∞","option4":"-1","correctAnswer":1},
+  {"question":"What is the cube root of 216?","option1":"5","option2":"6","option3":"7","option4":"8","correctAnswer":2},
+  {"question":"Value of sec 0°?","option1":"0","option2":"1","option3":"∞","option4":"-1","correctAnswer":2},
+  {"question":"What is 15×15?","option1":"215","option2":"225","option3":"235","option4":"245","correctAnswer":2}
+]

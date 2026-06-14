@@ -1,0 +1,22 @@
+[
+  {"question":"Atomic number of Oxygen?","option1":"6","option2":"7","option3":"8","option4":"9","correctAnswer":3},
+  {"question":"Chemical formula of water?","option1":"H2O","option2":"CO2","option3":"O2","option4":"NaCl","correctAnswer":1},
+  {"question":"pH of neutral solution?","option1":"5","option2":"6","option3":"7","option4":"8","correctAnswer":3},
+  {"question":"Acid turns blue litmus?","option1":"Green","option2":"Red","option3":"Yellow","option4":"Black","correctAnswer":2},
+  {"question":"Base turns red litmus?","option1":"Blue","option2":"Green","option3":"Yellow","option4":"White","correctAnswer":1},
+  {"question":"NaCl is?","option1":"Sugar","option2":"Salt","option3":"Acid","option4":"Base","correctAnswer":2},
+  {"question":"Chemical symbol of Gold?","option1":"Gd","option2":"Au","option3":"Ag","option4":"Go","correctAnswer":2},
+  {"question":"Chemical symbol of Silver?","option1":"Si","option2":"Sl","option3":"Ag","option4":"Au","correctAnswer":3},
+  {"question":"Who developed periodic table?","option1":"Dalton","option2":"Mendeleev","option3":"Newton","option4":"Bohr","correctAnswer":2},
+  {"question":"Gas used in photosynthesis?","option1":"Oxygen","option2":"Hydrogen","option3":"Carbon Dioxide","option4":"Nitrogen","correctAnswer":3},
+  {"question":"Atomic number of Carbon?","option1":"4","option2":"5","option3":"6","option4":"7","correctAnswer":3},
+  {"question":"Example of compound?","option1":"Gold","option2":"Water","option3":"Oxygen","option4":"Iron","correctAnswer":2},
+  {"question":"Example of element?","option1":"Water","option2":"Salt","option3":"Oxygen","option4":"Sugar","correctAnswer":3},
+  {"question":"Gas used in balloons?","option1":"Helium","option2":"Oxygen","option3":"Nitrogen","option4":"Hydrogen","correctAnswer":1},
+  {"question":"Chemical formula of Carbon Dioxide?","option1":"CO","option2":"CO2","option3":"C2O","option4":"O2","correctAnswer":2},
+  {"question":"Matter occupies?","option1":"Space","option2":"Time","option3":"Light","option4":"Energy","correctAnswer":1},
+  {"question":"Pure water is?","option1":"Acidic","option2":"Basic","option3":"Neutral","option4":"Salt","correctAnswer":3},
+  {"question":"Unit of atomic mass?","option1":"kg","option2":"amu","option3":"gm","option4":"cm","correctAnswer":2},
+  {"question":"Chemical symbol of Sodium?","option1":"So","option2":"Na","option3":"Sd","option4":"Sn","correctAnswer":2},
+  {"question":"Chemical symbol of Potassium?","option1":"Po","option2":"Pt","option3":"K","option4":"P","correctAnswer":3}
+]

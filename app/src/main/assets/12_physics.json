@@ -1,0 +1,22 @@
+[
+  {"question":"SI unit of electric current?","option1":"Volt","option2":"Ampere","option3":"Ohm","option4":"Watt","correctAnswer":2},
+  {"question":"Unit of resistance?","option1":"Volt","option2":"Ohm","option3":"Ampere","option4":"Joule","correctAnswer":2},
+  {"question":"Ohm's Law is?","option1":"V=IR","option2":"P=VI","option3":"F=ma","option4":"E=mc²","correctAnswer":1},
+  {"question":"SI unit of magnetic field?","option1":"Tesla","option2":"Pascal","option3":"Joule","option4":"Watt","correctAnswer":1},
+  {"question":"Speed of light?","option1":"3×10⁸ m/s","option2":"3×10⁶ m/s","option3":"3×10⁴ m/s","option4":"3×10² m/s","correctAnswer":1},
+  {"question":"Unit of power?","option1":"Watt","option2":"Joule","option3":"Volt","option4":"Ampere","correctAnswer":1},
+  {"question":"Unit of charge?","option1":"Volt","option2":"Coulomb","option3":"Ampere","option4":"Newton","correctAnswer":2},
+  {"question":"Who discovered electron?","option1":"Rutherford","option2":"Bohr","option3":"J.J. Thomson","option4":"Newton","correctAnswer":3},
+  {"question":"SI unit of frequency?","option1":"Watt","option2":"Hertz","option3":"Volt","option4":"Joule","correctAnswer":2},
+  {"question":"Transformer works on?","option1":"AC","option2":"DC","option3":"Battery","option4":"Cell","correctAnswer":1},
+  {"question":"Unit of capacitance?","option1":"Henry","option2":"Farad","option3":"Tesla","option4":"Ohm","correctAnswer":2},
+  {"question":"Mirror formula relates?","option1":"u,v,f","option2":"F,m,a","option3":"P,V,I","option4":"E,m,c","correctAnswer":1},
+  {"question":"Photon is particle of?","option1":"Matter","option2":"Light","option3":"Sound","option4":"Heat","correctAnswer":2},
+  {"question":"Nucleus contains?","option1":"Electrons","option2":"Protons and Neutrons","option3":"Only Protons","option4":"Only Neutrons","correctAnswer":2},
+  {"question":"Unit of inductance?","option1":"Farad","option2":"Henry","option3":"Tesla","option4":"Volt","correctAnswer":2},
+  {"question":"Current is measured by?","option1":"Voltmeter","option2":"Ammeter","option3":"Barometer","option4":"Thermometer","correctAnswer":2},
+  {"question":"Unit of energy?","option1":"Joule","option2":"Watt","option3":"Volt","option4":"Ohm","correctAnswer":1},
+  {"question":"Electromagnetic waves travel in?","option1":"Vacuum","option2":"Water only","option3":"Air only","option4":"Metal only","correctAnswer":1},
+  {"question":"Unit of voltage?","option1":"Ampere","option2":"Volt","option3":"Ohm","option4":"Tesla","correctAnswer":2},
+  {"question":"Who proposed relativity theory?","option1":"Newton","option2":"Einstein","option3":"Bohr","option4":"Maxwell","correctAnswer":2}
+]
